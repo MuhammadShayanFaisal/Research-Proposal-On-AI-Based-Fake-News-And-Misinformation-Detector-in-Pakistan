@@ -1,0 +1,6 @@
+Tool Names:
+1: Google Fact Check Explorer,
+Tool 2: Snopes,
+Tool 3: ClaimBuster,
+Tool 4: Botometer,
+Tool 5: Factiverse
